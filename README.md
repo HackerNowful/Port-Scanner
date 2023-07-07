@@ -15,7 +15,7 @@ It's an Automatic Port scanner for sacnning your entire network also you can sca
 
 4] sudo ./install.sh.x
 
-5] you can run this script from anyware By typing Port_Scan
+5] You can run this script from anyware in your Terminal By typing Port_Scan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackernowful&label=Profile%20views&color=0e75b6&style=flat" alt="hackernowful" /> </p>
 
